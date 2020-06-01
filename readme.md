@@ -6,3 +6,5 @@
 
 # Modifica fatta su github direttamente
 # Modifica di PatriziaTersigni
+
+#Modifica per il fetch
